@@ -27,5 +27,19 @@ some page and text spacing
 
 ## Link to Deployed Website
 
+https://charlixoxoxo.github.io/charlispilecki.github.io/
+
+## Screenshots
+
+![Screenshot_1](img/Screenshotdsk1.png)
+![Screenshot_2](img/Screenshotdsk2.png)
+![Screenshot_3](img/Screenshotdsk3.png)
+![Screenshot_4](img/Screenshotmob1.png)
+![Screenshot_5](img/Screenshotmob2.png)
+![Screenshot_6](img/Screenshotmob3.png)
+![Screenshot_7](img/Screenshotmob4.png)
+![Screenshot_8](img/Screenshotmob5.png)
+
+
 
 
