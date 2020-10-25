@@ -6,80 +6,165 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Charli's Portfolio</title>
     <link rel="stylesheet" href=style.css />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+        integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
 </head>
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <a class="navbar-brand" href="#">Charli Spilecki</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
-            <li class="nav-item active">
-              <a class="nav-link" href="#about-me">About Me <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#projects">Projects</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#contact-me">Contact</a>
-          </ul>
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#about-me">About Me <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#projects">Projects</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#contact">Contact</a>
+            </ul>
         </div>
-      </nav>
-
+    </nav>
+<!-- About Me section -->
     <main class="container-fluid">
         <div class="row" id="about-me">
-            <div class="offset-1 col-7 bg-info rounded mt-5">
-                <img alt="headshot picture" class="rounded float-left pr-2 m-3" width="350px" height="350px" src="img/profpic.png">
-                <p>Hi, I'm Charli! Thanks for taking a look at my page.</p>
-                <p>I'm looking for work as a software developer and am currently enrolled in the Full Stack Bootcamp at UT.</p> 
-                    <p>I live in Austin, TX (born and raised) with my husband + two dogs + one cat, and am currently employed as an Office Coordinator 
+            <div class="offset-2 col-8 bg-info rounded mt-5">
+                <img alt="headshot picture" class="rounded float-left p-2 m-3 img-thumbnail"
+                     src="img/profpic.png">
+                <p class="first-p lead">Hi, I'm Charli! Thanks for taking a look at my page.</p>
+                <p>I'm looking for work as a software developer and am currently enrolled in the Full Stack Bootcamp at
+                    UT.</p>
+                <p>I live in Austin, TX (born and raised) with my husband + two dogs + one cat, and am currently
+                    employed as an Office Coordinator
                     at a startup insurance company.</p>
-                <p>Some years ago, I graduated from UT with a degree in Communications. Although my degree isn't directly
-                    related to software engineering, I think my education and skills will contribute greatly to any position.
+                <p>Some years ago, I graduated from UT with a degree in Communications. Although my degree isn't
+                    directly
+                    related to software engineering, I think my education and skills will contribute greatly to any
+                    position.
                 </p>
-                <p>Take a look at my resume and portfolio and please reach out if you think I would be a good fit for any open positions you have available!</p>
+                <p>Take a look at my resume and projects and please reach out if you think I would be a good fit for any
+                    open positions you have available!</p>
             </div>
         </div>
-        <div class="row" id="contact">
-            <div class="col-4">
+<!-- Projects information section -->
+        <div class="row" id="projects">
+            <div class="col-md-4 col-sm-12">
                 <div class="card mb-3;">
-                    <img src="https://images.unsplash.com/photo-1523966211575-eb4a01e7dd51?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=653&q=80"
-                        class="card-img-top" alt="Old-style phone receiver" style="height: 425px; width: 100%; display: block">
-                    <div class="card-body">
-                        <h5 class="card-title">By Phone</h5>
-                        <p class="card-text">512.968.6703</p>
-                        <!-- <a href="#" class="btn btn-primary">Go Somewhere</a> -->
+                    <div class="card bg-dark text-white zoom">
+                        <img class="card-img project-image" src="img/cogsimage.jpeg" alt="Closeup of mechanical cogs">
+                        <div class="card-img-overlay">
+                            <h5 class="card-title">Project 1</h5>
+                            <p class="card-text">TBD.</p>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="col-4">
-                <div class="card mb-3">
-                    <img src="https://images.unsplash.com/photo-1596732839794-e378f5423243?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
-                        class="card-img-top" alt="Linkedin symbol on clear glass door" style="height: 425px; width: 100%; display: block">
-                    <div class="card-body">
-                        <h5 class="card-title">Via Linkedin</h5>
-                        <!-- <p class="card-text">More words</p> -->
-                        <a href="https://www.linkedin.com/in/charli-spilecki-1270979a/"
-                            class="btn btn-primary">Linkedin</a>
-                    </div>
+            <div class="col-md-4 col-sm-12">
+                <div class="card mb-3;">
+                    <div class="card bg-dark text-white zoom">
+                        <img class="card-img project-image" src="img/cogsimage.jpeg" alt="Closeup of mechanical cogs">
+                        <div class="card-img-overlay">
+                            <h5 class="card-title">Project 2</h5>
+                            <p class="card-text">TBD.</p>
+                        </div>
                     </div>
                 </div>
-                <div class="col-4">
-                    <div class="card mb-3">
-                        <img src="https://images.unsplash.com/photo-1586769852351-8791d2bb43be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
-                            class="card-img-top" alt="Typewriter with 'Send Mail' typed out on page" style="height: 425px; width: 100%; display: block">
-                        <div class="card-body">
-                            <h5 class="card-title">By Email</h5>
-                            <p class="card-text">charlispilecki@gmail.com</p>
-                            <!-- <a href="#" class="btn btn-primary">Some Words</a> -->
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <div class="card mb-3;">
+                    <div class="card bg-dark text-white zoom">
+                        <img class="card-img project-image" src="img/cogsimage.jpeg" alt="Closeup of mechanical cogs">
+                        <div class="card-img-overlay">
+                            <h5 class="card-title">Project 3</h5>
+                            <p class="card-text">TBD.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <div class="card mb-3;">
+                    <div class="card bg-dark text-white zoom">
+                        <img class="card-img project-image" src="img/cogsimage.jpeg" alt="Closeup of mechanical cogs">
+                        <div class="card-img-overlay">
+                            <h5 class="card-title">Project 4</h5>
+                            <p class="card-text">TBD.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <div class="card mb-3;">
+                    <div class="card bg-dark text-white zoom">
+                        <img class="card-img project-image" src="img/cogsimage.jpeg" alt="Closeup of mechanical cogs">
+                        <div class="card-img-overlay">
+                            <h5 class="card-title">Project 5</h5>
+                            <p class="card-text">TBD.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <div class="card mb-3;">
+                    <div class="card bg-dark text-white zoom">
+                        <img class="card-img project-image" src="img/cogsimage.jpeg" alt="Closeup of mechanical cogs">
+                        <div class="card-img-overlay">
+                            <h5 class="card-title">Project 6</h5>
+                            <p class="card-text">TBD.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+<!-- Contact Me information section -->
+                <div class="row" id="contact">
+                    <div class="col-md-4 col-sm-12">
+                        <div class="card mb-3;">
+                            <img src="img/oldschoolphone.jpg"
+                                class="card-img-top" alt="Old-style phone receiver"
+                                style="height: 425px; width: 100%; display: block">
+                            <div class="card-body">
+                                <h5 class="card-title text-center">By Phone</h5>
+                                <p class="card-text text-center">512.968.6703</p>
+                                <!-- <a href="#" class="btn btn-primary">Go Somewhere</a> Could add link here-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="card mb-3">
+                            <img src="img/linkedin.jpg"
+                                class="card-img-top" alt="Linkedin symbol on clear glass door"
+                                style="height: 425px; width: 100%; display: block">
+                            <div class="card-body text-center">
+                                <h5 class="card-title">Via Linkedin</h5>
+                                <!-- <p class="card-text">More words</p> Could add more text here-->
+                                <a href="https://www.linkedin.com/in/charli-spilecki-1270979a/"
+                                    class="btn btn-primary">Linkedin</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="card mb-3">
+                            <img src="img/typewriter.jpg"
+                                class="card-img-top" alt="Typewriter with 'Send Mail' typed out on page"
+                                style="height: 425px; width: 100%; display: block">
+                            <div class="card-body">
+                                <h5 class="card-title text-center">By Email</h5>
+                                <p class="card-text text-center">charlispilecki@gmail.com</p>
+                                <!-- <a href="#" class="btn btn-primary">Some Words</a> -->
+                            </div>
                         </div>
                     </div>
                 </div>
     </main>
-    <footer class="footer pt-2">
+    <footer class="footer text-center">
         <div class="container">
             <span class="text-muted">CHARLI SPILECKI © 2020
             </span>
