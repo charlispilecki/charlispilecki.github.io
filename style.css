@@ -38,7 +38,7 @@ z-index:10;
 }
 
 /* padding on projects section so cards are not touching */
-#projects .col-4 {
+#projects .col-md-4 {
 padding-top: 20px;
 }
 
