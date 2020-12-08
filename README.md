@@ -7,20 +7,18 @@ hiring managers to view when they are scouting for software developer jobs. Hope
 the page I created will provide them with much of the necessary information needed
 for them to consider me for a position. 
 
-I included sections titled "About Me," "Projects," and "Contact." The
-"Projects" section is very sparse and empty right now, but I will eventually have
-projects I can add there. 
+I included sections titled "About Me," "Projects," and "Contact." For this updated portfolio, I included links to several of my most recent works and screenshots of the websites. 
+I also added a link to the PDF version of my resume and a my Github profile link in the "Contact" section. 
 
 More specifically:
 
 For the HTML
-* I utilized Bootstrap to make formatting the webpage easier and more responsive; most
-notably, the column and row classes, and many of my styling elements
-* I also added the Javascript component of Bootstrap simply to activate the navigation
-bar menu when in mobile mode
+* I added the Javascript component of Bootstrap simply to activate the navigation bar menu when in mobile mode
 * Created image cards for the "Projects" and "Contact" section
 
 For the CSS
+* I utilized Bootstrap and Bulma to make formatting the webpage easier and more responsive; most
+notably, the column and row classes, and many of my styling elements
 * Sparingly utilized CSS for the body and footer formatting/styling and also to improve
 some page and text spacing
 * Hover and zoom function for the "Projects" section
