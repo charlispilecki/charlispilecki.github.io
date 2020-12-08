@@ -23,9 +23,12 @@ notably, the column and row classes, and many of my styling elements
 some page and text spacing
 * Hover and zoom function for the "Projects" section
 
-## Link to Deployed Website
+## Links
 
-https://charlixoxoxo.github.io/charlispilecki.github.io/
+Deployed website: https://charlixoxoxo.github.io/charlispilecki.github.io/
+Linkedin: https://www.linkedin.com/in/charli-spilecki-1270979a/
+Resume: https://charlispilecki.github.io/img/CharliSpileckiResume.pdf
+
 
 ## Screenshots
 
