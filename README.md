@@ -40,6 +40,12 @@ https://charlixoxoxo.github.io/charlispilecki.github.io/
 ![Screenshot_7](img/Screenshotmob4.png)
 ![Screenshot_8](img/Screenshotmob5.png)
 
+## Updated Screenshots
+
+![Screenshot_9](img/Screenshot9.png)
+![Screenshot_10](img/Screenshot10.png)
+![Screenshot_11](img/Screenshot11.png)
+
 
 
 
