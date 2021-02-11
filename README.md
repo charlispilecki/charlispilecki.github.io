@@ -2,7 +2,7 @@
 
 ## About This Assignment
 
-For this assignment, I created a portfolio page for recruiters, companies, and
+For this assignment, I updated my portfolio page for recruiters, companies, and
 hiring managers to view when they are scouting for software developer jobs. Hopefully,
 the page I created will provide them with much of the necessary information needed
 for them to consider me for a position. 
@@ -15,6 +15,7 @@ More specifically:
 For the HTML
 * I added the Javascript component of Bootstrap simply to activate the navigation bar menu when in mobile mode
 * Created image cards for the "Projects" and "Contact" section
+* Added more cards for my second project and additional homeworks
 
 For the CSS
 * I utilized Bootstrap and Bulma to make formatting the webpage easier and more responsive; most
@@ -26,6 +27,7 @@ some page and text spacing
 ## Links
 
 Deployed website: https://charlixoxoxo.github.io/charlispilecki.github.io/
+Github Repo: https://github.com/charlispilecki/charlispilecki.github.io 
 Linkedin: https://www.linkedin.com/in/charli-spilecki-1270979a/
 Resume: https://charlispilecki.github.io/img/CharliSpileckiResume.pdf
 
@@ -46,6 +48,11 @@ Resume: https://charlispilecki.github.io/img/CharliSpileckiResume.pdf
 ![Screenshot_9](img/Screenshot9.png)
 ![Screenshot_10](img/Screenshot10.png)
 ![Screenshot_11](img/Screenshot11.png)
+
+## Updated Screenshots 
+![Screenshot_12](img/MonnaieProjectTwo.png)
+![Screenshot_13](img/NoteTaker.png)
+
 
 
 
