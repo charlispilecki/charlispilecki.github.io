@@ -29,29 +29,29 @@ some page and text spacing
 Deployed website: https://charlixoxoxo.github.io/charlispilecki.github.io/
 Github Repo: https://github.com/charlispilecki/charlispilecki.github.io 
 Linkedin: https://www.linkedin.com/in/charli-spilecki-1270979a/
-Resume: https://charlispilecki.github.io/img/CharliSpileckiResume.pdf
+Resume: https://charlispilecki.github.io/public/img/CharliSpileckiResume.pdf
 
 
 ## Screenshots
 
-![Screenshot_1](img/Screenshotdsk1.png)
-![Screenshot_2](img/Screenshotdsk2.png)
-![Screenshot_3](img/Screenshotdsk3.png)
-![Screenshot_4](img/Screenshotmob1.png)
-![Screenshot_5](img/Screenshotmob2.png)
-![Screenshot_6](img/Screenshotmob3.png)
-![Screenshot_7](img/Screenshotmob4.png)
-![Screenshot_8](img/Screenshotmob5.png)
+![Screenshot_1](public/img/Screenshotdsk1.png)
+![Screenshot_2](public/img/Screenshotdsk2.png)
+![Screenshot_3](public/img/Screenshotdsk3.png)
+![Screenshot_4](public/img/Screenshotmob1.png)
+![Screenshot_5](public/img/Screenshotmob2.png)
+![Screenshot_6](public/img/Screenshotmob3.png)
+![Screenshot_7](public/img/Screenshotmob4.png)
+![Screenshot_8](public/img/Screenshotmob5.png)
 
 ## Updated Screenshots
 
-![Screenshot_9](img/Screenshot9.png)
-![Screenshot_10](img/Screenshot10.png)
-![Screenshot_11](img/Screenshot11.png)
+![Screenshot_9](public/img/Screenshot9.png)
+![Screenshot_10](public/img/Screenshot10.png)
+![Screenshot_11](public/img/Screenshot11.png)
 
 ## Updated Screenshots 
-![Screenshot_12](img/MonnaieProjectTwo.png)
-![Screenshot_13](img/NoteTaker.png)
+![Screenshot_12](public/img/MonnaieProjectTwo.png)
+![Screenshot_13](public/img/NoteTaker.png)
 
 
 
